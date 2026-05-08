@@ -21,6 +21,7 @@ def menu():
     while True:
         print("\n=== MINI SCANNER ===")
         print("1) Scan rapide (top ports)")
+	print("=== Scanner lancé ===")
         print("2) Scan services")
         print("3) Scan personnalisé")
         print("4) Quitter")
